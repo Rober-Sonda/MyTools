@@ -10,11 +10,6 @@ import android.view.ViewGroup;
 
 import com.rober.mytools.R;
 
-/**
- * A simple {@link Fragment} subclass.
- * Use the {@link Frg_Sonido#newInstance} factory method to
- * create an instance of this fragment.
- */
 public class Frg_Sonido extends Fragment {
 
     public Frg_Sonido() {
